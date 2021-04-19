@@ -16,6 +16,6 @@ We will use the two attached datafiles (which are also used in the video) during
 - who_disease.csv
 - BagsOfOranges_Fact.xlsx
 
-THere is also a written guide on how to install R in the repo:
+There is also a written guide on how to install R in the repo:
 
 - RInstallAndReadFiles.doc
