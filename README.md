@@ -14,7 +14,7 @@ It is an introduction to RStudio and a short demonstration on how to run code an
 We will use the two attached datafiles (which are also used in the video) during the meetup:
 
 - who_disease.csv
-- BagsOfOranges.csv
+- BagsOfOranges_Fact.xlsx
 
 THere is also a written guide on how to install R in the repo:
 
