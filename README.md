@@ -19,3 +19,9 @@ We will use the two attached datafiles (which are also used in the video) during
 There is also a written guide on how to install R in the repo:
 
 - RInstallAndReadFiles.doc
+
+You can also find the slides from part 1 in the repo:
+- R-intro_SZ.pdf
+
+Finally you can find the code from the live session:
+- IntroCode1.R
