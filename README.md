@@ -20,8 +20,10 @@ There is also a written guide on how to install R in the repo:
 
 - RInstallAndReadFiles.doc
 
-You can also find the slides from part 1 in the repo:
+You can also find the slides from part 1 and 2 in the repo:
 - R-intro_SZ.pdf
+- R-intro_part2_SZ
 
-Finally you can find the code from the live session:
+Finally you can find the code from the live sessions:
 - IntroCode1.R
+- IntroCode2.R
